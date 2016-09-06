@@ -781,7 +781,7 @@ def PPBalance(module,alist):
 def ConnectToDB(server,infile):
     
     ##infile values are '0' when you dont want to uplaod data from local file and '1' when you wish to upload data by local file
-    ##EX:con=sql.connect(host= server, user='kakrana', passwd='livetheday', local_infile = infile)
+    ##EX:con=sql.connect(host= server, user='xxxxx', passwd='xxxxx', local_infile = infile)
     ##Now later in script you can
     ##cur.execute("LOAD DATA LOCAL INFILE './scoring_input_extend2' INTO TABLE bioinfo_data.mir_page_results FIELDS TERMINATED BY ','")
     
