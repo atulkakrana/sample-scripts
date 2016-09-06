@@ -12,12 +12,12 @@ import os,glob,sys,difflib,time,shutil
 
 ########### USER SETTINGS ########
 
-res_folder = 'ALL'            ## Folder with all ther results
-p_val = '1e-07'                 ## If specified a poor cutoff - it will include variants of loci with good cut-off
-genome = 'ASPARAGUS_UGA1_genome'   ## Name for PHAS cluster naming
-fileType = 'C'                  ## L = *cluster.boundary.without.PARE.validation.list file, N = *NO.by.PARE.file, Y = *YES.by.PARE.file, C: if formatted CSV for intercomparision
-region = 'I'                    ## 'G': Genic and 'I': Intergenic - This affects overlap ration in main()
-seqType = 1                     ## 0: Genomic coords and normal seq files 1: PacBio - with lots of stuff in header
+res_folder  = 'ALL'            ## Folder with all ther results
+p_val       = '1e-07'                 ## If specified a poor cutoff - it will include variants of loci with good cut-off
+genome      = 'ASPARAGUS_UGA1_genome'   ## Name for PHAS cluster naming
+fileType    = 'C'                  ## L = *cluster.boundary.without.PARE.validation.list file, N = *NO.by.PARE.file, Y = *YES.by.PARE.file, C: if formatted CSV for intercomparision
+region      = 'I'                    ## 'G': Genic and 'I': Intergenic - This affects overlap ration in main()
+seqType     = 1                     ## 0: Genomic coords and normal seq files 1: PacBio - with lots of stuff in header
 
 ##################################
 

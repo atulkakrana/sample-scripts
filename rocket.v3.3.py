@@ -69,7 +69,7 @@ nthread         = 16                    ## [developer]  Fine grain PP
 maxReadLen      = 1000                  ## [developer]  Max allowed unchopped read length for graph generation
 
 masterDB        = 'master'              ## [server]
-dataServer      = 'raichu.ddpsc.org' ## [server]
+dataServer      = 'xxxx.ddpsc.org' ## [server]
 
 ## TOOL/FILE PATH ###################################
 adapterFileSE   = '/data1/homes/kakrana/tools/Trimmomatic-0.32/adapters/TruSeq-SE.fa'      ## [mandatory] Sequence adapter file in FASTA format - Trimmomatic has files for different kits - Copy from there
@@ -788,7 +788,7 @@ def ConnectToDB(server,infile):
     print ('\nTrying to connect to mySQL server on %s' % (server))
     # Try to connect to the database
     try:
-        con=sql.connect(host= server, user='kakrana', passwd='livetheday')###local_infile = 1 not supported yet so a table has to be updated on row basis
+        con=sql.connect(host= server, user='xxxx', passwd='xxxxx')###local_infile = 1 not supported yet so a table has to be updated on row basis
         print ('Connection Established\n')
 
     # If we cannot connect to the database, send an error to the user and exit the program.
