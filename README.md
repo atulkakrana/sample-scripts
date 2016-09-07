@@ -13,13 +13,13 @@ geneOverlap.v07.py		: Script written to check overlap and genomic context of tra
 
 ## R
 
-iSyTE2_LumiALL.R	: Script written for unpublished iSyTE tool. Processes Illumina Microarray's data.
+iSyTE2.Lumi.R: Script written for yet-unpublished iSyTE tool. Processes Illumina Microarray's data.
 
-iSyTE2_AF4302A_All.R: Script written for unpublished iSyTE tool. Processes Affymetrix Microarray's data.
+iSyTE2.Affy.R: Script written for yet-unpublished iSyTE tool. Processes Affymetrix Microarray's data.
 
-AGTwoColor.R		: Script processes custom-microarray (Maize) two-color data
+AGTwoColor.R: Script processes custom-microarray (Maize) two-color data
 
-iSyTENet.R			: Script written for unpublished iSyTE tool. Generates co-expression based gene networks.
+iSyTENet.R: Script written for yet-unpublished iSyTE tool. Constructs co-expression based gene networks.
 
-NOTE: These are scripts written for my day-to-day research, and belongs to Meyers (Donald Danforth Plant Science Centre) and Lachke (University of Delaware) Lab.
+NOTE: These scripts belongs to Meyers (Donald Danforth Plant Science Centre) and Lachke (University of Delaware) Lab.
 
