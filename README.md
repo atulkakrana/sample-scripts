@@ -1,5 +1,5 @@
 ## Synopsis
-A set of sample-scripts for review by hiring managers or selection committee. These scripts are used for my day-day and are not true indicator of my coding potential. Study-specific (main) tools that I developed cannot be included here as those are only for internal use.
+A set of sample-scripts for review by hiring managers or selection committee. These scripts are used for my day-to-day research and are not true indicators of my coding potential. Study-specific (major) tools that I developed cannot be included here as those are only for internal use.
 
 ## Python
 
