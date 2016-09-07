@@ -7,17 +7,11 @@ A set of sample-scripts for review by hiring managers or selection committee. Th
 
 **rocket.v3.3.py**: SmallRNA or longRNA pre-processing and expression profiling script using *ab initio* approach
 
-**PhasRedundant.v1.05.py**: One component of *phasTER* (yet-unpublished plant sRNA phasing analyses tool developed by me) to collapse results from multiple libraries
-
-**geneOverlap.v07.py**: Script written to check overlap and genomic context of transcripts downstram of Single Molecule Real Time Seqeuncing (SMRT-seq). It is one of the six different scripts for SMRT seq data analysis
-
 ## R
 
 **iSyTE2.Lumi.R**: Script written for yet-unpublished *iSyTE* tool. Processes Illumina Microarray's data.
 
 **iSyTE2.Affy.R**: Script written for yet-unpublished *iSyTE* tool. Processes Affymetrix Microarray's data.
-
-**AGTwoColor.R**: Script processes custom-microarray (Maize) two-color data
 
 **iSyTENet.R**: Script written for yet-unpublished *iSyTE tool*. Constructs co-expression based gene networks.
 
