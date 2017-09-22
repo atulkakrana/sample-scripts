@@ -1,4 +1,4 @@
-### FOr developemntal time point analysis Illumina - 22-Aug-2014
+### For developemntal time point analysis Illumina - 22-Aug-2014
 
 library(lumi)
 library(limma)
@@ -8,7 +8,7 @@ library(annotate)
 library(R2HTML)
 library(genefilter)
 
-#Illumina------------------------------------------------------------------------------------
+## Illumina------------------------------------------------------------------------------------
 getwd()
 setwd("/data2/homes/kakrana/3.ProjectR/8.Collab/3.iSyTE2/data_IL/Mut")
 
