@@ -1,4 +1,5 @@
 ## Co-expression Networks for ISyTE 2.0
+## Script by Atul Kakrana
 
 ## Prepare
 library(WGCNA);library(org.Mm.eg.db)
