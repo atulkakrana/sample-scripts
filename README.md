@@ -9,7 +9,7 @@ Study-specific (major) tools that I developed cannot be included here as those a
 
 **RNA-Seq.py**: Small-, long-RNA pre-processing, *ab-initio* transcriptome assembly and expression profiling script
 
-## R
+## R scripts in this repository
 
 **iSyTE2.Lumi.R**: Script written for yet-unpublished *iSyTE* tool. Processes Illumina Microarray's data.
 
